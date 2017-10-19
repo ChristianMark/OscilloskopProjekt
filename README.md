@@ -1,3 +1,2 @@
-﻿# OscilloskopProjekt
-3-Ugers Projekt i Elektroteknologi på 2. semester
- lol
+# OscilloskopProjekt
+3-Ugers Projekt i Elektroteknologi paa 2. semester
